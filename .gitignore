@@ -2,7 +2,6 @@ node_modules/
 .idea/
 wwwroot/build/
 wwwroot/doc/
-wwwroot/index.html
 npm-debug.log
 version.js
 version.json
