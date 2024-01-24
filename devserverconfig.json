@@ -21,6 +21,7 @@
     "gov",
     "gov.uk",
     "gov.nz",
-    "services.aremi.data61.io"
+    "services.aremi.data61.io",
+    "https://192.168.0.236:9001/geoserver/wms/reflect?layers=Climate_And_Weather:April 2018 Kenya Mean Monthly precipitation in April 2018&format=image/WMS&width=800"
   ]
 }
